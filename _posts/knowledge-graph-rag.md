@@ -1,13 +1,13 @@
 ---
 title: "Knowledge Graph 통합 RAG 구현"
 excerpt: "정보 검색과 기계 학습 기반의 자연어 생성 기술의 결합이라 할 수 있는 RAG(Retrieval-Augmented Generation)는 일부 애플리케이션에서 그 효과성이 검증되고 있다. 정보를 처리하는 소프트웨어 애플리케이션에 빠른 속도로 도입 될 것이라는 예측은 이제 어려운 일이 아니다. RAG를 발전시키기 위한 연구와 시도 또한 속도를 내고있다. 지식 그래프 기술을 RAG에 통합하는 접근 방법은 이러한 맥락에서 살펴보아야 한다."
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/next-blog-starter/assets/blog/preview/cover.jpg"
 date: "2025-06-02T05:35:07.322Z"
 author:
   name: Eunho Kim
-  picture: "/assets/blog/authors/joe.jpeg"
+  picture: "/next-blog-starter/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/next-blog-starter/assets/blog/preview/cover.jpg"
 ---
 
 정보 검색과 기계 학습 기반의 자연어 생성 기술의 결합이라 할 수 있는 **`RAG(Retrieval-Augmented Generation)`** 는 일부 애플리케이션에서 그 효과성이 검증되고 있다. 정보를 처리하는 소프트웨어 애플리케이션에 빠른 속도로 도입 될 것이라는 예측은 이제 어려운 일이 아니다. RAG를 발전시키기 위한 연구와 시도 또한 속도를 내고있다. 지식 그래프 기술을 RAG에 통합하는 접근 방법은 이러한 맥락에서 살펴보아야 한다.
